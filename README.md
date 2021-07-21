@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nick Murphy
+- 👀 I’m interested in all theings development
+- 🌱 I’m currently learning Django and Phalcon
+- 📫 Send me an email at murphynicholas801@gmail.com
